@@ -3,7 +3,7 @@
   "description": "",
   "main": "gulpfile.js",
   "license": "ISC",
-  "homepage": "",
+  "homepage": "https://github.com/q111111233/wikipedia",
   "ignore": [
     "**/.*",
     "node_modules",

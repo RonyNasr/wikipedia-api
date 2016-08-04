@@ -1,7 +1,6 @@
 {
   "name": "wikipedia",
   "version": "1.0.0",
-  "description": "",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -20,5 +19,15 @@
     "gulp-util": "^3.0.7",
     "jshint": "^2.9.2",
     "vinyl-source-stream": "^1.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/q111111233/wikipedia.git"
+  },
+  "bugs": {
+    "url": "https://github.com/q111111233/wikipedia/issues"
+  },
+  "homepage": "https://github.com/q111111233/wikipedia#readme",
+  "dependencies": {},
+  "description": ""
 }
